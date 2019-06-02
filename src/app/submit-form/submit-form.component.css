@@ -1,0 +1,13 @@
+.form{
+    margin:5px 80px 5px 60px;
+    padding: 8px 80px 8px 60px;
+    border: 2px solid orange;
+
+}
+.container{
+    margin:5px 80px 5px 60px;
+    
+}
+.navbar{
+    background-color: rgb(255, 81, 0)
+}

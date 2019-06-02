@@ -1,0 +1,10 @@
+<app-home></app-home>
+<div class="form">
+  Name<br>
+  <input class="form-control" type="text" value="" name="name" [(ngModel)]="name">
+  <br>
+  Job<br>
+  <input class="form-control" type="text" value="" name="job" [(ngModel)]="job">
+  <br><br>
+  <input type="submit" value="Submit" (click)="onSubmit(name, job)">
+</div> 
